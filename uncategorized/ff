@@ -175,7 +175,7 @@
 
 
 
-    <a data-url="http://yoursite.com/uncategorized/ff" data-id="cjtwf75ll0000dd7c9dnkpfdw" class="article-share-link"><i class="fa fa-share"></i>Compartir</a>
+    <a data-url="http://yoursite.com/uncategorized/ff" data-id="cjtwfgg670000rz7cnlj7wca3" class="article-share-link"><i class="fa fa-share"></i>Compartir</a>
 <script>
     (function ($) {
         $('body').on('click', function() {
